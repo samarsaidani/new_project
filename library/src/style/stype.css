@@ -1,0 +1,128 @@
+.save{
+    display: flex;
+}
+
+
+.image{
+    width: 90px;
+    
+   
+  
+}
+
+.cadre{
+
+	display: flex;
+	justify-content: center;
+	padding-top: 10px;
+}
+
+.search{
+	border: 1px solid block;
+    display: flex;
+    justify-content: center;
+
+   
+    
+ 
+
+   
+}
+
+
+input {
+	background-color: #eee;
+	border: none;
+	padding: 12px 15px;
+	margin: 8px 0;
+	width: 500px;
+} 
+
+.btn{
+	border: 1px solid black;
+    display: flex;
+    justify-content: center;
+
+    
+    
+}
+
+
+.home{
+height: 900px;
+	
+	background-image: 
+	linear-gradient(rgba(141,39,174,0.3),
+	rgba(141,39,174,0.5)), url("https://www.theladders.com/wp-content/uploads/books_190405.jpg");
+	
+	color: white;
+    
+}
+/* .icon_cart{
+	border: 1px solid black;
+} */
+.icon_cart span{
+	
+	display: flex;
+	width: 20px;
+	height: 20px;
+	justify-content: center;
+	background-color: red;
+	align-items: center;
+	color: #eee;
+	border-radius: 50px;
+	position: absolute;
+	top: 35px;
+	right: 85px;
+
+	
+	
+
+}
+
+/* .cartTab{
+
+	
+	border: 1px solid black;
+	height: 800px;
+width: 1300px;
+	 background-color: rgba(97, 75, 104, 0.4);
+	color: #eee;
+margin-top: 50px;
+margin-left: 70px;
+
+	
+	
+	 
+
+
+} */
+
+
+
+
+.cart{
+
+	width: 900px;
+	margin-top: 10px;
+	margin-left: 300px;
+	color:"black"
+  
+	
+}
+	
+.panier{
+	margin-top: 10px;
+	color:"black";
+	background-color: rgba(141,39,40,0.2);
+}
+
+
+.delete{
+	border: 1px solid red;
+
+
+}
+.admin{
+	display: flex;
+	}
